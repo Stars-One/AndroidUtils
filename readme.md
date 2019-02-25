@@ -76,3 +76,7 @@ PermissionUtils.onRequestPermissionResult(mContext, PERMISSION_CAMERA, grantResu
                     }
                 });
 ```
+## SMSReader 短信读取
+```
+getAllSMSBody(Activity activity)
+```
